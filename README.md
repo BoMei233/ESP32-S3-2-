@@ -32,7 +32,7 @@
 #### 2.1.1 转向灯开关插簧连接
     按照下图所示，将插簧线插入转向灯开关，插簧插入方向任意
 <img src="https://raw.githubusercontent.com/BoMei233/ESP32-S3-ETS2-Combination-switch/refs/heads/main/%E5%9B%BE%E7%89%87/%E7%81%AF%E5%85%89%E6%8B%A8%E6%9D%86%E7%BA%BF%E5%BA%8F2.png" alt="灯光拨杆线序2" width=400 height=300>
-<img src="https://raw.githubusercontent.com/BoMei233/ESP32-S3-ETS2-Combination-switch/refs/heads/main/%E5%9B%BE%E7%89%87/%E8%BD%AC%E5%90%91%E7%81%AF%E7%BA%BF%E6%9D%9F%E6%8E%A5%E6%B3%95.jpg" alt="转向灯线束接法" style="width: 300px; height: 300px; object-fit: cover;">\
+<img src="https://raw.githubusercontent.com/BoMei233/ESP32-S3-ETS2-Combination-switch/refs/heads/main/%E5%9B%BE%E7%89%87/%E8%BD%AC%E5%90%91%E7%81%AF%E7%BA%BF%E6%9D%9F%E6%8E%A5%E6%B3%95.jpg" alt="转向灯线束接法" style="width: 300px; height: 300px; object-fit: cover;">
 
 #### 2.1.2 转向灯开关手柄线束连接
     下图给出了手柄五根线具体的作用，将两根GND与插簧线的GND并联在一起：
