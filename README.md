@@ -23,7 +23,7 @@
 | 醋酸胶布(非必须，用于固定线束) |   1   |
 
 ### 注意事项：
-1.角码需要在远端打个5mm的孔以适配V99基座，千万不要买大一号的
+1.角码需要在远端打个5mm的孔以适配V99基座，千万不要买大一号的\
 <img src="https://raw.githubusercontent.com/BoMei233/ESP32-S3-ETS2-Combination-switch/refs/heads/main/%E5%9B%BE%E7%89%87/%E8%A7%92%E7%A0%81%E6%89%93%E5%AD%94.jpg" alt="角码打孔孔位" width=400 height=300>
 
 ## 2. 组装步骤
