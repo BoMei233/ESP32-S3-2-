@@ -41,7 +41,7 @@
 至此，转向灯组合开关已经引出了8根线，将这8根线用“8x0.15平方硅胶线”延长，最后接到航空插头上。(请记住线序，航插上面会印有数字编号，这里买10P的用处是方便焊接，因为中间两根插针非常难焊接，因此使用四周的8根)
 
 ### 2.2 雨刮器开关
-雨刮器相对简单，因为手柄没有线束，只需要插簧线。
+雨刮器相对简单，因为手柄没有线束，只需要插簧线。\
 <img src="https://raw.githubusercontent.com/BoMei233/ESP32-S3-ETS2-Combination-switch/refs/heads/main/%E5%9B%BE%E7%89%87/%E9%9B%A8%E5%88%AE%E5%99%A8%E6%8B%A8%E6%9D%86%E7%BA%BF%E5%BA%8F.png" alt="雨刮器拨杆线序" style="width: 300px">\
 现在将引出的5根线用“5x0.15平方硅胶线”延长，最后接到航空插头上。(请记住线序，航插上面会印有数字编号)
 
@@ -49,8 +49,8 @@
 #### 2.3.1 控制板与洞洞板连接
 这一步相对简单，只需要将航空插座上的引脚与开发板上的引脚对应连接起来就好，<span style="color: red;">记得在每个引脚与地之间并联一个104电容，这步非常重要！！！</span>如下图所示：
 <img src="https://raw.githubusercontent.com/BoMei233/ESP32-S3-ETS2-Combination-switch/refs/heads/main/%E5%9B%BE%E7%89%87/%E6%8E%A7%E5%88%B6%E7%9B%92%E5%86%85%E9%83%A8.jpg" alt="控制盒内部" style="width: 300px">\
-使用洞洞板固定，将开发板焊接至洞洞板上即可，注意，需要将洞洞板短边剪去一排孔位，将USB接口与洞洞板边缘对齐，否则在装壳后USB线将无法插入。
-洞洞板尺寸为50x65mm，不一致的可以使用剪刀和砂纸进行修正。
+使用洞洞板固定，将开发板焊接至洞洞板上即可，注意，需要将洞洞板短边剪去一排孔位，将USB接口与洞洞板边缘对齐，否则在装壳后USB线将无法插入。\
+洞洞板尺寸为50x65mm，不一致的可以使用剪刀和砂纸进行修正。\
 <img src="https://raw.githubusercontent.com/BoMei233/ESP32-S3-ETS2-Combination-switch/refs/heads/main/%E5%9B%BE%E7%89%87/%E6%B3%A8%E6%84%8F%E5%B9%B3%E9%BD%90.jpg" alt="注意平齐" style="width: 300px">\
 
 #### 2.3.2 控制板与航空插座连接
